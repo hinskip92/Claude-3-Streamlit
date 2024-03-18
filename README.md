@@ -1,10 +1,6 @@
-# Project Title
-
-Brief description of what this project does.
-
 ## Overview
 
-This project is designed to [provide a short explanation of the project's functionality and its use case]. It leverages external APIs to [describe what the APIs are used for in the project].
+This project is a multimodal chat project for the Claude-3 API that enables you to switch between models, enter a system message, as well as upload images.
 
 ## Getting Started
 
